@@ -30,7 +30,6 @@ Atualmente o projeto aborda:
 * Data Pump (EXPDP/IMPDP)
 * Configuração de DIRECTORY
 * Gerenciamento de arquivos de backup
-* Testes de recuperação
 
 ---
 
@@ -40,6 +39,6 @@ Atualmente o projeto aborda:
 * Oracle SQL*Plus
 * Oracle Recovery Manager (RMAN)
 * Oracle Data Pump (EXPDP/IMPDP)
-* Windows
+* Windows como S.O
 
 ---
